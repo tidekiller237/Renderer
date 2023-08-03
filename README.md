@@ -40,7 +40,10 @@ main.cpp:
   -  The body of "WndProc" method; lines 134 - 193
   -  The body of "begin_main_loop" method; lines 226 - 250
 
-The "dev_app.cpp" and "dev_app.h" files
+The following files:
+  -  "dev_app.cpp" and "dev_app.h"
+  -  "ps_cube.hlsl" and "vs_cube.hlsl"
+  -  "ps_line.hlsl" and "vs_line.hlsl"
 
 pools.h:
   -  The bodies of the methods in the "sorted_pool_t" class; lines 15 - 62
