@@ -1,0 +1,39 @@
+﻿  dev_app.cpp
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(97,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(98,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(485,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(486,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(487,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(488,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(606,17): warning C4552: '-': result of expression not used
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(622,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(622,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(623,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(623,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(624,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(624,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(625,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(625,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(627,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(627,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(628,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(628,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(629,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(629,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(630,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(630,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(646,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(647,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(827,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(836,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(838,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(838,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(839,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(839,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(856,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(862,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(863,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(863,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(863,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\dev_app.cpp(902,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Renderer.vcxproj -> C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\x64\Debug\Renderer.exe

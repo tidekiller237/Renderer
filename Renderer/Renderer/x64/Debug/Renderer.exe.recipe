@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\x64\Debug\Renderer.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\ps_cube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\ps_line.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\vs_cube.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\tidek\Documents\__FullSail\Work\__PutOnGit\Renderer\Renderer\vs_line.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
