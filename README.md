@@ -36,15 +36,15 @@ For section three (The fustrum detection), you must set "LAB_2" AND "LAB_3" stat
 ### Personal Contribution
 I was supplied with the base line code, however I wrote the following sections:
 
-main.cpp:
+Renderer/Renderer/main.cpp:
   -  The body of "WndProc" method; lines 134 - 193
   -  The body of "begin_main_loop" method; lines 226 - 250
 
 The following files:
-  -  "dev_app.cpp" and "dev_app.h"
-  -  "ps_cube.hlsl" and "vs_cube.hlsl"
-  -  "ps_line.hlsl" and "vs_line.hlsl"
+  -  "Renderer/Renderer/dev_app.cpp" and "Renderer/Renderer/dev_app.h"
+  -  "Renderer/Renderer/shaders/ps_cube.hlsl" and "Renderer/Renderer/shaders/vs_cube.hlsl"
+  -  "Renderer/Renderer/shaders/ps_line.hlsl" and "Renderer/Renderer/shaders/vs_line.hlsl"
 
-pools.h:
+Renderer/Renderer/pools.h:
   -  The bodies of the methods in the "sorted_pool_t" class; lines 15 - 62
   -  The bodies of the methods in the "pool_t" class; lines 73 - 122
